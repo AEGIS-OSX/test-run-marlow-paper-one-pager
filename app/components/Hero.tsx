@@ -1,4 +1,4 @@
-import { ProjectImage } from "@/app/components/ProjectImage";
+import { ProjectImage } from "./ProjectImage";
 
 export default function Hero() {
   return (
@@ -9,10 +9,7 @@ export default function Hero() {
       <p className="text-[var(--text-body)] leading-[1.65] text-[var(--color-text)] mb-[48px]">
         Objects of craft and permanence for the desk and the hand.
       </p>
-      <ProjectImage
-        id="hero"
-        className="w-full aspect-[4/3] object-cover"
-      />
+      <ProjectImage id="hero" className="w-full aspect-[4/3] object-cover" />
     </section>
   );
 }
