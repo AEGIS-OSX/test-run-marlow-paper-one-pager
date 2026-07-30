@@ -14,7 +14,6 @@ export default function Home() {
         <ProjectImage
           id="hero"
           className="w-full aspect-[4/3] object-cover"
-          alt="Marlow Paper shop interior with cream envelopes on an oak counter"
         />
       </section>
 
@@ -29,7 +28,6 @@ export default function Home() {
         <ProjectImage
           id="feature_1"
           className="w-full aspect-[4/3] object-cover"
-          alt="Heavy cream envelopes on a weathered wooden counter"
         />
       </section>
 
