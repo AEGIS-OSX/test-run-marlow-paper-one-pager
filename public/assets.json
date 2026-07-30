@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437397921-logo-TEST-PLACEHOLDER.png",
+    "alt": "A minimalist vector logo mark featuring a stylized quill and serif letterform, utilizing the brand's warm brown and near-black palette against a parchment background. This mark establishes the shop's ",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437387807-hero-TEST-PLACEHOLDER.png",
+    "alt": "This hero image captures the tactile permanence of Marlow Paper through a focused study of cream envelopes on an oak counter. The natural light and restricted palette establish the shop's quiet, craft",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437387113-feature_1-TEST-PLACEHOLDER.png",
+    "alt": "A close-up of cream envelopes on a weathered wooden counter, capturing the tactile quality of heavy paper and the quiet atmosphere of a long-standing shop.\n\nDEFENSE:\n- CHOICE: A focused shot of stacke",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437387177-feature_2-TEST-PLACEHOLDER.png",
+    "alt": "A close-up of cream-colored envelopes on a weathered oak counter, capturing the tactile quality of the paper and the quiet, permanent atmosphere of the shop.\n\nDEFENSE:\n- CHOICE: A focused shot of heav",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437387171-feature_3-TEST-PLACEHOLDER.png",
+    "alt": "A tactile close-up of cream envelopes on a dark oak counter, emphasizing the physical weight and texture of the stationery.\n\nDEFENSE:\n- CHOICE: A focused shot of stacked cream envelopes on a weathered",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/test-run-marlow-paper-one-pager/cleo/1785437407938-social_proof-TEST-PLACEHOLDER.png",
+    "alt": "A tactile close-up of heavy cream envelopes on a weathered oak surface, capturing the quiet permanence and craft of Marlow Paper through texture and soft morning light.\n\nDEFENSE:\n- CHOICE: A macro sho",
     "width": 1200,
     "height": 800
   }
