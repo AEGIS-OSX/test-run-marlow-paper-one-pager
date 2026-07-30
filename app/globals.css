@@ -3,21 +3,6 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #1A1714;
-  --color-accent: #7C5C3E;
-  --color-bg: #F5F0E8;
-  --color-text: #1A1714;
-  --color-muted: #666666;
-  --color-border: #7C5C3E;
-  --space-base: 8px;
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 16px;
-  --font-display: "Tiempos Headline", Georgia, serif;
-  --font-body: "Tiempos Text", Georgia, serif;
-}
-
-:root {
   --color-bg: #F5F0E8;
   --color-text: #1A1714;
   --color-text-secondary: #6B6259;
@@ -26,28 +11,21 @@
   --font-display: "Tiempos Headline", Georgia, serif;
   --font-body: "Tiempos Text", Georgia, serif;
   --text-hero: 72px;
-  --text-section: 28px;
+  --text-heading: 28px;
   --text-body: 18px;
   --text-detail: 16px;
   --space-section-desktop: 80px;
   --space-section-mobile: 56px;
   --space-padding-desktop: 48px;
   --space-padding-mobile: 24px;
-  --max-content-width: 680px;
+  --content-max-width: 680px;
 }
 
 html, body {
-  overflow-x: clip;
-}
-
-body {
   background-color: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
-  font-size: var(--text-body);
-  line-height: 1.65;
-  margin: 0;
-  padding: 0;
+  overflow-x: clip;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-container {
-  max-width: var(--max-content-width);
+  max-width: var(--content-max-width);
   margin-left: auto;
   margin-right: auto;
   padding-left: var(--space-padding-mobile);

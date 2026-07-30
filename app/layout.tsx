@@ -1,12 +1,17 @@
-import type { Metadata } from 'next';
-import './globals.css';
+import type { Metadata } from "next";
+import "./globals.css";
 
 export const metadata: Metadata = {
-  title: 'test-run-marlow-paper-one-pager',
-  description: 'AEGIS-generated project',
+  title: "Marlow Paper",
+  description:
+    "Objects of craft and permanence for the desk and the hand.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
       <body>{children}</body>
